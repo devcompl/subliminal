@@ -91,6 +91,7 @@ provider_manager = RegistrableExtensionManager('subliminal.providers', [
     'addic7ed = subliminal.providers.addic7ed:Addic7edProvider',
     'legendastv = subliminal.providers.legendastv:LegendasTVProvider',
     'napiprojekt = subliminal.providers.napiprojekt:NapiProjektProvider',
+    'napisy24 = subliminal.providers.napisy24:Napisy24Provider',
     'opensubtitles = subliminal.providers.opensubtitles:OpenSubtitlesProvider',
     'podnapisi = subliminal.providers.podnapisi:PodnapisiProvider',
     'shooter = subliminal.providers.shooter:ShooterProvider',
